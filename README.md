@@ -1,7 +1,10 @@
 # Timer
 I made a timer with HTML, CSS and JavaScript. The stopwatch can be paused, started and restarted
 
+
 ![image](https://user-images.githubusercontent.com/86370873/155807446-17e7e307-0abf-4c37-b361-20c6bd1ccfb3.png)
+
+STARTED
 
 ![image](https://user-images.githubusercontent.com/86370873/155807468-e2a48c83-afe6-42b7-8585-3021afd2e6d0.png) 
 
